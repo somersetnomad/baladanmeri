@@ -9,4 +9,4 @@
 - Owner facts usable as information gain: published 22-page self-forecast (sample/), birth time rectified from five dated life events, solar return cast for Bruton, "three of four steps must agree" working rule, Regiomontanus, Naibod key by default, no outer planets by default.
 - Do NOT reuse the private life details in the sample (adoption, marriage) in articles.
 - Mode: review (PRs) for first 3 articles. Cadence: 2/week max.
-- File conventions: one folder per article, /<slug>/index.html, copy the head/header/footer/CSS from /morin-method/index.html. Add each new page to sitemap.xml and llms.txt, and link it from the home page and at least one other guide.
+- File conventions: one folder per article, /<slug>/index.html, copy the head/header/footer/CSS from /morin-method/index.html. Each new post: add it to /blog/index.html (newest first, plus its BlogPosting entry in the JSON-LD), add an <item> at the top of /feed.xml and update lastBuildDate, add it to sitemap.xml and llms.txt, and link it from at least one other post. Posts keep their own top-level slug (e.g. /morin-method/); the menu on every page has a Blog link and the head has the RSS alternate link.

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>The Patient Sky</title>
+<link>https://baladanmeri.com/blog/</link>
+<atom:link href="https://baladanmeri.com/feed.xml" rel="self" type="application/rss+xml"/>
+<description>Plain-words writing on Morin's method of astrology and the craft of timing, by Bala Danmeri.</description>
+<language>en-gb</language>
+<lastBuildDate>Thu, 29 Oct 2026 10:40:00 +0000</lastBuildDate>
+<item>
+<title>Morin's method of astrology, in plain words</title>
+<link>https://baladanmeri.com/morin-method/</link>
+<guid isPermaLink="true">https://baladanmeri.com/morin-method/</guid>
+<pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+<author>info@baladanmeri.com (Bala Danmeri)</author>
+<description>Who Jean-Baptiste Morin was, the one rule at the heart of his method, and how four steps narrow a forecast from a year to a day, with a worked example from my own forecast.</description>
+</item>
+</channel>
+</rss>
