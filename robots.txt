@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /.organic-engine/
+
+Sitemap: https://baladanmeri.com/sitemap.xml

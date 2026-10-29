@@ -1,0 +1,9 @@
+id,query,cluster,intent,ai_prompt,priority,status,url,published,last_checked
+1,morin method astrology,morin,informational-commercial,"What is Jean-Baptiste Morin's method of astrological forecasting?",60,in_review,/morin-method/,,2026-10-29
+2,primary directions astrology explained,timing,informational,"What are primary directions in astrology and how do they time events?",48,queued,,,
+3,where to spend birthday solar return relocation,timing,informational-commercial,"Does it matter where I spend my birthday for my solar return?",45,queued,,,
+4,birth time rectification from life events,birth-time,commercial,"How can I find my birth time if it wasn't recorded?",45,queued,,,
+5,can astrology predict when something will happen,trust,informational,"Can astrology accurately predict when events will happen?",36,queued,,,
+6,lunar return chart meaning,timing,informational,"What does a lunar return chart show and how do I read it?",24,queued,,,
+7,solar return chart how to read morin,timing,informational,"How do you read a solar return chart the traditional way?",24,queued,,,
+8,astrologia gallica english translation,morin,informational,"Which books of Morin's Astrologia Gallica are translated into English?",20,queued,,,
