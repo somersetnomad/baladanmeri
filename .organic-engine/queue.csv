@@ -1,5 +1,5 @@
 id,query,cluster,intent,ai_prompt,priority,status,url,published,last_checked
-1,morin method astrology,morin,informational-commercial,"What is Jean-Baptiste Morin's method of astrological forecasting?",60,in_review,/morin-method/,,2026-10-29
+1,morin method astrology,morin,informational-commercial,"What is Jean-Baptiste Morin's method of astrological forecasting?",60,published,/morin-method/,2026-10-29,2026-10-29
 2,primary directions astrology explained,timing,informational,"What are primary directions in astrology and how do they time events?",48,queued,,,
 3,where to spend birthday solar return relocation,timing,informational-commercial,"Does it matter where I spend my birthday for my solar return?",45,queued,,,
 4,birth time rectification from life events,birth-time,commercial,"How can I find my birth time if it wasn't recorded?",45,queued,,,
